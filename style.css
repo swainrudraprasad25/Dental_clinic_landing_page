@@ -1,0 +1,209 @@
+*{
+    margin:0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#id1{
+    display: flex;
+    margin: 20px 400px 20px 300px;
+
+}
+#id2{
+    color: rgb(79, 76, 76);
+    width: 10px;
+    height: 10px;
+    
+
+}
+#id3{
+    color: rgb(80, 77, 77);
+    width: 10px;
+    height: 10px;
+    margin-left: 100%;
+}
+.id4{
+    display: flex;
+    margin-top: 20px;
+}
+#id5{
+    margin-top: 100px;
+    margin-left: 300px;
+    display: flex;
+    margin-bottom: 40px;
+
+}
+.text{
+    color: rgba(97, 99, 99, 0.9);
+    font-weight: 500;
+}
+h1{
+    margin-top: 30px;
+}
+
+.id6{
+    margin-top: 35px;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid rgb(212, 79, 30);
+    padding: 10px 5px 2px 5px;
+    color: rgb(216, 68, 15);
+}
+#id7{
+    height: 400px;
+    width: 600px;
+    margin-left: 40px;
+    border: 1px solid rgb(193, 190, 190);
+    background-image: url(./creativesmilebelfast-all-on-4-dental-implants-belfast-8378579.jpg);
+    background-size: cover;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+#id9{
+    display: grid;
+    margin-left: 300px;
+    margin-right: 400px;
+    grid-template-columns:211px 211px 211px 211px;
+    grid-template-rows: 25vh;
+    gap: 34px;
+    
+
+}
+.id8{
+    text-align: center;
+    
+    
+    background-color: #f18c4f;
+}
+.id10{
+    margin-top: 15px;
+}
+.tooth{
+    font-size: large;
+    color: azure;
+}
+.write{
+    color: rgb(231, 238, 238);
+    font-size: small;
+}
+u{
+    font-size: small;
+}
+#id16{
+    height: 140vh;
+    width: 62vw;
+    margin-left: 300px;
+    
+    background-color: #f18c4f;
+}
+.id15{
+    color: rgb(232, 238, 238);
+    text-align: center;
+    margin-top: 25px;
+    
+}
+#id17{
+    
+    padding-top: 50px;
+}
+.id20{
+    text-align: center;
+    color: rgb(230, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 270px 270px 270px;
+    grid-template-rows: 50vh 50vh;
+    gap: 17px;
+    margin-left: 54px;
+    margin-right: -20px;
+    
+  
+    
+}
+.id21{
+    border: 1px solid rgb(227, 82, 29);
+    background-color:white;
+    border-radius: 10px;
+}
+.img{
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-image: url(https://i.pinimg.com/1200x/d6/19/d6/d619d6c3c9328ea79f094e1922495dc4.jpg);
+    background-size: cover;
+}
+.line{
+    display: flex;
+    color: rgb(211, 70, 9);
+}
+.size{
+    margin-left: 15px;
+    font-size: larger;
+}
+.text2{
+    margin-top: -5px;
+    margin-left: 15px;
+    color: rgba(140, 138, 138, 0.9);
+    font-size: small;
+    font-weight: 600;
+}
+.text3{
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(35, 35, 35);
+    font-size: 15px;
+}
+.text4{
+    margin-left: 15px;
+    margin-top: -10px;
+    font-weight: 600;
+}
+.img1{
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-image: url(https://i.pinimg.com/736x/37/25/1e/37251eab10cb27e8b11515a3c78ce64d.jpg);
+    background-size: cover;
+
+}
+.img3{
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-image: url(https://i.pinimg.com/1200x/46/1c/41/461c41a2ba9a6b2c4a12fb78d7ec36db.jpg);
+    background-size: cover;
+
+}
+.img4{
+    background-image: url(https://i.pinimg.com/1200x/0a/26/83/0a2683be69721321922e38281caf5a07.jpg);
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-size: cover;
+}
+.img5{
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-image: url(https://i.pinimg.com/736x/32/32/c1/3232c18a520cce37a4f90dae7884ee7d.jpg);
+    background-size: cover;
+
+
+}
+.img6{
+    margin: 20px 15px 10px 16px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid rgba(135, 131, 131,0);
+    background-image: url(https://i.pinimg.com/736x/e7/76/c6/e776c6834ebd349d1e3acf2bd5e7bec0.jpg);
+    background-size: cover;
+
+}
